@@ -1,7 +1,5 @@
 # GeminiChatBot
 
-# Gemini ChatBot
-
 Gemini ChatBot is a simple AI-driven conversational assistant built using modern web technologies and generative AI APIs. This chatbot provides interaction capabilities, leveraging a blend of simple front-end libraries and efficient back-end integrations.
 
 ## 🚀 Features
